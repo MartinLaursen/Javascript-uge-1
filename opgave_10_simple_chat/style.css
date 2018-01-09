@@ -1,0 +1,10 @@
+#output {
+    border-style: solid;
+    border-color: black;
+    width: 500px;
+}
+h2 {
+    font-size: 14px;
+}
+input {
+}
